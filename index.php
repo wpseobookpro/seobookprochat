@@ -1,0 +1,1 @@
+<?php // Share and care
