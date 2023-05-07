@@ -1,5 +1,5 @@
 # SEO Book PRO Chat
-## Powerful SEO Plugon for WordPress
+## Powerful SEO Plugin for WordPress
 ### SBPChat is a Simple Powerful SEO plugin and tool for WordPress. 
 
 > The SEO Book PRO Plugin is a powerful tool designed to help website owners and marketers optimize their website's search engine performance. The plugin offers a range of features and options, includes some of the settings below:
