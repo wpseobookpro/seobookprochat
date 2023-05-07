@@ -23,7 +23,15 @@
  - SEO - Pereformance of the Website/Pages
  - Accesibility
 
-)and Bing, as well as social media networks. The plugin also includes an options tab menu, support, and FAQs, making it easy for users to get the most out of their SEO efforts. With a dedicated folder and easy-to-use interface, the SEO Book PRO Plugin is an essential tool for anyone looking to improve their website's search engine rankings
+- Integration for social media networks
+ - Facebook Profile Page
+ - Twitter Profile Page and @username 
+ - LinkedIn Page/Profile/Showcase
 
-# seobookprochat
-SEO Book PRO Chat Bot is a Simple Powerful SEO plugin and tool for WordPress Websites
+## The plugin also includes an admin options Dasboard, settings tab menus, plugin support and FAQs admin dashboard page. 
+
+### Our main goal is to make it easy for users who want to try or use our SEO chat plugin for WordPress to get the most out of their SEO efforts. With a dedicated folder and easy-to-use interface, the SEO Book PRO Chat Plugin is an essential tool for anyone looking to improve their website's search engine rankings and reduce the coding needs.
+
+## SEO Book Pro - SEO Plugin for WordPress websites
+
+> SEO Book PRO Chat Bot is a Simple Powerful SEO plugin and tool for WordPress Websites
